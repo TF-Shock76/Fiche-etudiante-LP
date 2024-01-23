@@ -1,0 +1,77 @@
+/* Sommaire
+    1 - éléments natifs
+    2 - éléments généraux
+    3 - haut de la page
+    4 - contenu de la page
+    5 - bas de la page
+ */
+
+/*----- 1 - éléments natifs -----*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff7fe;
+}
+
+/*----- 2 - éléments généraux -----*/
+.lh-2 {
+    line-height: 2;
+}
+
+.bg-light-pink {
+    background-color: #fff7fe;
+}
+.bg-almotri-blue {
+    background-color: #0db8e3;
+}
+
+.border-almotri-blue {
+    border-color: #10C5F1;
+}
+
+.content-logo {
+    width: 200px;
+    height: 200px;
+}
+.content-logo:hover {
+    opacity: 0.3;
+}
+
+table {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+thead {
+    background-color: #0db8e3;
+    font-weight: bold;
+    color: white
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+/*----- 3 - haut de la page -----*/
+
+
+/*----- 4 - contenu de la page -----*/
+
+.marge_gauche {
+    margin-left: 32px!important;
+}
+
+.connexion{
+    margin-bottom: 20px;
+}
+.creaFiche{
+    margin-bottom: 10px;
+}
+
+input {
+    margin-bottom: 32px;
+}
+
+
+/*----- 5 - bas de la page -----*/
+
